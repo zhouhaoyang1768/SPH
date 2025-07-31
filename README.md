@@ -1,4 +1,4 @@
-This project was tested on Linux machines.
+This project was tested on WSL Ubuntu.
 
 To complie this project, run 'make' and './sph'
 
