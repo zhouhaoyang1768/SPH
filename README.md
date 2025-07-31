@@ -1,6 +1,6 @@
 This project was tested on WSL Ubuntu.
 
-To complie this project, run 'make' and './sph'
+To run this project, open up a command prompt and run 'make' and './sph'
 
 After it is opened, it will create a scene with a up made of wall particles.
 Left click to spawn water particles, and right click to remove wall particles. 
